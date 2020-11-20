@@ -1,8 +1,5 @@
 #include<ESP8266WiFi.h>
 
-
-
-
 String ssid = "";
 String password = "";
 int UNITSBUF = 0;
