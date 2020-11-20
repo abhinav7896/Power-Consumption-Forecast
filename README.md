@@ -10,4 +10,4 @@ The Android application on the user’s mobile can be used to control the home a
 
 ->An estimator service takes these data and calculates the estimated power consumption and bill towards the end of the current month. This estimation is notified to the users and can be viewed on the users' Android app.
 
-->Another microcontroller is interfaced to the home appliances, and is programmed to be a simple HTTP server which can be used to toggle the appliances on and off as per the request from the Android app.
+->Another microcontroller was interfaced to the home appliances, and was programmed to be a simple HTTP server which can be used to toggle the appliances on and off as per the request from the Android app.
